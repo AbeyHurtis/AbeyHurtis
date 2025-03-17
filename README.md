@@ -2,7 +2,7 @@
 
 ## 🚀 What I'm Working On
 - **Optimizing AI model training on FPGAs** for faster, more efficient deep learning.
-- **Exploring accelerated computing & explainable AI** in a university project.
+- **Exploring accelerated computing & explainable AI**.
 - **Improving high-performance computing** with a focus on software and hardware integration.
 
 ## 🤝 Let's Collaborate On
