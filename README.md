@@ -1,5 +1,3 @@
-# 👋 Hey there!
-
 ## 🚀 What I'm Working On
 - **Optimizing AI model training on FPGAs** for faster, more efficient deep learning.
 - **Exploring accelerated computing & explainable AI**.
