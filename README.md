@@ -1,32 +1,26 @@
 # 👋 Hey there!
 
 ## 🚀 What I'm Working On
-- **Optimizing AI model training using hardware acceleration**—improving deep learning efficiency on FPGAs.
-- **Researching accelerated computing and explainable AI** as part of a university project.
-- **Expanding expertise in high-performance computing, software optimization, and scalable systems.**
+- **Optimizing AI model training on FPGAs** for faster, more efficient deep learning.
+- **Exploring accelerated computing & explainable AI** in a university project.
+- **Improving high-performance computing** with a focus on software and hardware integration.
 
-## 🤝 Looking to Collaborate On
-- **AI acceleration, system optimization, and software performance improvements.**
-- **Bridging software and hardware** to enhance computational efficiency.
-- **Innovative tech solutions** that tackle real-world challenges.
+## 🤝 Let's Collaborate On
+- **AI acceleration**, **system optimization**, and **software performance**.
+- **Bridging software and hardware** to boost efficiency.
 
 ## 🔍 Looking for Help With
-- **Opportunities in performance engineering, embedded systems, or AI-driven applications.**
-- **Best practices for designing and optimizing software across different architectures.**
-- **Keeping up with advancements in computing, automation, and AI applications.**
+- **Opportunities in performance engineering** or **AI-driven applications**.
+- **Staying ahead in computing, automation, and AI advancements.**
 
 ## 📚 Currently Learning
-- **Techniques for accelerating computations** across different hardware platforms.
-- **Advanced software engineering, system design, and optimization strategies.**
-- **Modern development frameworks** and performance-enhancing methodologies.
+- **Techniques for accelerating computations** across different hardware.
+- **Advanced optimization strategies** and **modern development frameworks**.
 
 ## 💡 Ask Me About
-- **Optimizing software and AI models** for performance gains.
-- **Problem-solving and system design** in high-performance environments.
-- **Bridging software and hardware** to maximize efficiency.
+- **Optimizing AI models & software** for better performance.
+- **System design & problem-solving** in high-performance environments.
 
-## 🎯 Fun Fact
-I love **solving complex technical challenges** and experimenting with different **technologies, architectures, and methodologies** to find the best solutions! 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abey Hurtis) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/7941307/arh) 
 
