@@ -27,6 +27,9 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Abey12525" width="650" height="650" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abey12525&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="300" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abey12525&theme=dark&hide_border=false" width="300" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abey12525&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" height="150" />
 </div>
 
 ## 🏆 GitHub Trophies
