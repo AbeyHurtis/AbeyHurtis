@@ -37,5 +37,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=AbeyHurtis&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 <p aligin="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&descAlign=50&descAlignY=60&section=footer"/>
 </p>
