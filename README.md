@@ -32,5 +32,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbeyHurtis&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=AbeyHurtis&icon=0&color=0)](https://visitcount.itsvg.in)
+<p aligin="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&animation=twinkling"/>
+</p>
