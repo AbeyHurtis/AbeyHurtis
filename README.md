@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World&descAlign=50&descAlignY=60"/>
+</p>
+
 ## What I'm Working On
 - **Optimizing AI model training on FPGAs** for faster, more efficient deep learning.
 - **Exploring accelerated computing & explainable AI**.
