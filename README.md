@@ -1,13 +1,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World&descAlign=50&descAlignY=60"/>
 </p>
-<p align="right">
-  <a href="https://www.linkedin.com/in/abeyhurtis/" style="text-decoration:none;">
+<p>
+  <p align="right" style="color:#000000;">
+    Let's Connect!!
+  </p>
+  <p align="right">
+  <a href="https://www.linkedin.com/in/abeyhurtis/" target="_blank" style="text-decoration:none;">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/184fb711-e51e-43e1-a884-1e93aa6b7c6d" />
   </a>
-  <a href="https://stackoverflow.com/users/7941307/arh" style="text-decoration:none;">
+  <a href="https://stackoverflow.com/users/7941307/arh" target="_blank" style="text-decoration:none;">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7248b8c6-00cd-4c1b-92ea-c2fa4859a172" />
   </a>
+  </p>
 </p>
 
 ## What I'm Working On
