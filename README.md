@@ -27,9 +27,6 @@
 - **Techniques for accelerating computations** across different hardware.
 - **Advanced optimization strategies** and **modern development frameworks**.
   
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeyhurtis/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7941307/arh) 
-
 # Skills:
 <p align="left">
   <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/7fd9a079-84e8-4883-a3e0-030c33793af8" />
