@@ -1,6 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World&descAlign=50&descAlignY=60"/>
 </p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/abeyhurtis/">
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/184fb711-e51e-43e1-a884-1e93aa6b7c6d" />
+  </a>
+  <a href="https://stackoverflow.com/users/7941307/arh">
+    
+  </a>
+</p>
 
 ## What I'm Working On
 - **Optimizing AI model training on FPGAs** for faster, more efficient deep learning.
@@ -23,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeyhurtis/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7941307/arh) 
 
 # Skills:
-<p aligin="left">
+<p align="left">
   <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/7fd9a079-84e8-4883-a3e0-030c33793af8" />
 </p>
 
