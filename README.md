@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Hello%20World&descAlign=50&descAlignY=60"/>
 </p>
 
 ````bash
