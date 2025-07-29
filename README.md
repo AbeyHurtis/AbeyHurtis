@@ -19,20 +19,20 @@
   </p>
 </p>
 
-## What I'm Working On
+#### What I'm Working On
 - **Optimizing AI model training on FPGAs** for faster, more efficient deep learning.
 - **Exploring accelerated computing & explainable AI**.
 - **Improving high-performance computing** with a focus on software and hardware integration.
 
-## Let's Collaborate On
+#### Let's Collaborate On
 - **AI acceleration**, **system optimization**, and **software performance**.
 - **Bridging software and hardware** to boost efficiency.
 
-## Looking for Help With
+#### Looking for Help With
 - **Opportunities in performance engineering** or **AI-driven applications**.
 - **Staying ahead in computing, automation, and AI advancements.**
 
-## Currently Learning
+#### Currently Learning
 - **Techniques for accelerating computations** across different hardware.
 - **Advanced optimization strategies** and **modern development frameworks**.
   
