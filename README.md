@@ -6,7 +6,7 @@
   Let's Connect !!
 ````
 <p>
-  <p align="left">
+  <p align="center">
   <a href="https://www.linkedin.com/in/abeyhurtis/" target="_blank" style="text-decoration:none;">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/184fb711-e51e-43e1-a884-1e93aa6b7c6d" />
   </a>
