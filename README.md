@@ -8,14 +8,14 @@
 <p>
   <p align="center">
     <a href="https://abeyhurtis.github.io" target="_blank">
-      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bad11fe6-69ff-4053-8edc-21c78b4f6e70" />
+      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bad11fe6-69ff-4053-8edc-21c78b4f6e70" hspace="10" />
     </a>
-  <a href="https://www.linkedin.com/in/abeyhurtis/" target="_blank">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/184fb711-e51e-43e1-a884-1e93aa6b7c6d" />
-  </a>
-  <a href="https://stackoverflow.com/users/7941307/arh" target="_blank">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7248b8c6-00cd-4c1b-92ea-c2fa4859a172" />
-  </a>
+    <a href="https://www.linkedin.com/in/abeyhurtis/" target="_blank">
+      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/184fb711-e51e-43e1-a884-1e93aa6b7c6d" hspace="10"/>
+    </a>
+    <a href="https://stackoverflow.com/users/7941307/arh" target="_blank">
+      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7248b8c6-00cd-4c1b-92ea-c2fa4859a172" hspace="10"/>
+    </a>
   </p>
 </p>
 
