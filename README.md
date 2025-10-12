@@ -21,7 +21,7 @@
   </p>
 </p>
 
-Passionate about building systems that perform better through thoughtful integration of hardware and software. Recent projects include accelerating deep learning models on FPGAs, analyzing large-scale research metadata, and improving database-driven backend systems. Enjoy working on solutions that make systems faster, more maintainable, and easier to scale.
+Passionate about building systems that perform better through thoughtful integration of hardware and software. Recent projects include accelerating deep learning models on FPGAs, analyzing large-scale research metadata, and improving database-driven backend systems.
 
 Always happy to learn and contribute where possible.
   
